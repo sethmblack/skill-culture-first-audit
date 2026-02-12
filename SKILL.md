@@ -1,12 +1,10 @@
 ---
 name: culture-first-audit
-description: 'Audit organizational culture health using Chesky''s framework: values
-  defined before hiring, zero tolerance for values violations regardless of performance,
-  and culture as the machine that creates p...'
+description: 'Audit organizational culture health using Chesky''s framework: values defined before hiring, zero tolerance for values violations regardless of performance, and culture as the machine that creates p...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - culture-first-audit
 - escalation
