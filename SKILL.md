@@ -4,7 +4,7 @@ description: 'Audit organizational culture health using Chesky''s framework: val
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3741
+  version: 1.0.3742
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - culture-first-audit
